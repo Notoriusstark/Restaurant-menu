@@ -1,0 +1,199 @@
+@font-face {
+    font-family: Ailerons;
+    src: url(ailerons_2/Ailerons-Typeface.otf);
+    font-family: Gotham;
+    src: url(Gotham-font-family/Gotham/Gotham-Medium.otf);
+    font-family: Gotham_italic;
+    src: url(Gotham-font-family/Gotham/Gotham-ThinItalic.otf);
+}
+
+body{
+    background-color: #EDEDE4;
+}
+
+.header h2{
+    font-family: Ailerons;
+    font-size: 200px;
+    color: #782D1D;
+    position: absolute;
+    left: 25%;
+    margin-top: 10px;
+}
+
+.header ul{
+    display: flex;
+    position: absolute;
+    list-style: none;
+}
+
+.header li{
+    font-size: 30px;
+    font-family: Ailerons;
+    color: #2B211C;
+    padding-top: 241px;
+    margin-left: 20px;
+    margin-right: 73px;
+}
+
+.main{
+    display: flex;
+}
+
+.container1{
+    font-size: 24px;
+    width: 525px;
+    height: 98px;
+    padding-top: 336px;
+    padding-left: 70px;
+    font-family: Gotham;
+}
+
+.container2{
+    font-size: 20px;
+    width: 499px;
+    height: 42px;
+    padding-top: 336px;
+    padding-left: 120px;
+    font-family: Gotham_italic;
+
+}
+
+.hero{
+    height: 725px;
+    width: 1250px;
+    margin-top: 45px;
+    padding-left: 242px;
+    background-image: url(rest.jpg);
+
+}
+.block1{
+    height: 146px;
+    width: 1500px;
+    font-family: Gotham;
+    font-size: 30px;
+    color:#2B211C;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.block2{
+    height: 146px;
+    width: 1500px;
+    font-family: Gotham;
+    font-size: 30px;
+    color:#2B211C;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.block3{
+    height: 183px;
+    width: 1500px;
+    font-family: Gotham;
+    font-size: 30px;
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #782D1D;
+    
+}
+.block4{
+    height: 146px;
+    width: 1500px;
+    font-family: Gotham;
+    font-size: 30px;
+    color:#2B211C;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.block5{
+    height: 146px;
+    width: 1500px;
+    font-family: Gotham;
+    font-size: 30px;
+    color:#2B211C;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.footer{
+    display: flex;
+}
+.name{
+    display: block;
+}
+
+.name h3{
+
+        font-family: Ailerons;
+        font-size: 100px;
+        color: #782D1D;
+        margin-left: 10px;
+        margin-bottom: 72px;
+}
+
+.wrap{
+    text-align: center;
+    height: 100vh;
+    font-family: gotham;
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+
+
+.footer2{
+    font-family: gotham;
+    font-size: 20px;
+    color: #2B211C;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 280px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.footer2 li{
+    margin-left: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer3{
+    font-family: gotham;
+    font-size: 20px;
+    color: #2B211C;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 116px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.footer3 li{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer4{
+    font-family: gotham;
+    font-size: 20px;
+    color: #2B211C;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 116px;
+    margin-top: 150px;
+}
+
+.footer4 li{
+    margin-bottom: 20px;
+    text-align: center;
+
+}
